@@ -6,9 +6,9 @@
 ### About me:
 
 <!-- - 🔭 I’m currently working on ... -->
--  **FullStack Web Developer**
+-  **Full Stack Developer**
 - 🌱 I’m currently learning **Nextjs, React Native and Flutter**
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking to collaborate with other people in any projects.
 - 💬 Ask me about **ReactJS**
 - 📫 How to reach me: **luis.98bc@gmail.com**
 
